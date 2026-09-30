@@ -20,3 +20,4 @@ for p in sys.path[4]:
     print('Первые 8:', public[:8])
 
     print('Мой_name', __name__)
+
